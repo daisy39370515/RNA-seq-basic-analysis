@@ -1,4 +1,5 @@
 # RNA-seq-basic-analysis
+
 空间组学与DNA修复：RStudio-RNA seq analysis
 
 **🧬 Basic RNA-seq Analysis (Beginner Project)**
@@ -126,7 +127,9 @@ EnhancedVolcano(res,
 
 
 左边：下调基因
+
 右边：上调基因
+
 上面：显著
 
 🔥 左上 + 右上 = 最重要基因
